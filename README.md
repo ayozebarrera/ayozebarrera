@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![banner](https://raw.githubusercontent.com/ayozebarrera/ayozebarrera/assets/banner.png)
 <!--
 **ayozebarrera/ayozebarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
