@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="./assets/banner.png" />
+    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/banner.png" />
 </div>
 
 <p align="center">
