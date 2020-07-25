@@ -1,22 +1,6 @@
-<style>
-	.center {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-    .positioned {
-        position: absolute;
-        right: 0;
-        margin-top: -100px; 
-        opacity: 0.3;
-    }
-</style>
-
-<div class="center">
+<p align="center">
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/banner.png" />
-</div>
+</p>
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
@@ -37,14 +21,10 @@ I ❤️  **Javascript** and I've been developing ⚛️  **React** apps from 4 
 
 Currently I'm using coding with **VSCode** and designing with **Figma**.
 
-<div class="positioned">
+<p align="center">
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/stack.png" >
-</div>
+</p>
 
-<br />
-<br />
-<br />
-<br />
 <br />
 
 # Last posts
