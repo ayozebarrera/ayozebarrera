@@ -22,7 +22,7 @@ I ❤️  **Javascript** and I've been developing ⚛️  **React** apps from 4 
 Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 <p align="center">
-    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/stack.png" >
+    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/stack-centered.png" >
 </p>
 
 # 📓 Last posts
