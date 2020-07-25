@@ -13,13 +13,13 @@
 
 ## Heya! I'm a Frontend developer 👨‍💻 from Canary Islands, Spain 🇮🇨
 
-### I love to make new projects taking care all the aspects about the needs of the users. I always has been attracted to the design world and I enjoy investigating and learning new design techniques.
+I love to make new projects taking care all the aspects about the needs of the users. I always has been attracted to the design world and I enjoy investigating and learning new design techniques.
 
-### I started to developing and designing apps more than 10 years ago. 
+I started to developing and designing apps more than 10 years ago. 
 
-### I ❤️ **Javascript** and I've been developing ⚛️ **React** apps from 4 years.
+I ❤️ **Javascript** and I've been developing ⚛️ **React** apps from 4 years.
 
-### Currently I'm using coding with **VSCode** and designing with **Figma**.
+Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 <br />
 
