@@ -17,7 +17,7 @@ I love to make new projects taking care all the aspects about the needs of the u
 
 I started to developing and designing apps more than 10 years ago. 
 
-I ❤️ **Javascript** and I've been developing ⚛️ **React** apps from 4 years.
+I ❤️  **Javascript** and I've been developing ⚛️  **React** apps from 4 years.
 
 Currently I'm using coding with **VSCode** and designing with **Figma**.
 
@@ -76,13 +76,7 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/fleetview.png">
 </p>
 
----
-
-## [Fleetview](https://www.timeview.io/): Platform for managing fleets and assets of a company
-
-<p>
-    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/fleetview.png">
-</p>
+{% link https://dev.to/capua/como-crear-una-guia-de-estilo-con-figma-269o %}
 
 <!--
 **ayozebarrera/ayozebarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
