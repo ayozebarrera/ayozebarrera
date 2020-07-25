@@ -76,12 +76,8 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/fleetview.png">
 </p>
 
-{% link https://dev.to/capua/como-crear-una-guia-de-estilo-con-figma-269o %}
-
 <!--
 **ayozebarrera/ayozebarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-{% link https://dev.to/kazz/boost-your-productivity-using-markdown-1be %}
 
 Here are some ideas to get you started:
 
