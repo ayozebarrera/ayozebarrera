@@ -1,4 +1,20 @@
-<div style="text-align: center;">
+<style>
+	.center {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+    .positioned {
+        position: absolute;
+        right: 0;
+        margin-top: -100px; 
+        opacity: 0.3;
+    }
+</style>
+
+<div class="center">
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/banner.png" />
 </div>
 
@@ -21,7 +37,7 @@ I ❤️  **Javascript** and I've been developing ⚛️  **React** apps from 4 
 
 Currently I'm using coding with **VSCode** and designing with **Figma**.
 
-<div style="position: absolute;right: 0;margin-top: -100px; opacity: 0.3">
+<div class="positioned">
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/stack.png" >
 </div>
 
