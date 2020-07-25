@@ -11,7 +11,7 @@
 
 <br />
 
-## Heya! I'm a Frontend developer 👨‍💻 from Canary Islands, Spain 🇮🇨
+## Heya! I'm a Frontend developer from Canary Islands, Spain 🇮🇨
 
 I love to make new projects taking care all the aspects about the needs of the users. I always has been attracted to the design world and I enjoy investigating and learning new design techniques.
 
@@ -24,8 +24,6 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
 <p align="center">
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/stack.png" >
 </p>
-
-<br />
 
 # 📓 Last posts
 
