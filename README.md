@@ -40,7 +40,7 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 ### I've developed and designed this projects with React and React Native
 
-## [Reex](reex.pro): Social network for female football
+### [Reex](reex.pro): Social network for female football
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/reex.png">
@@ -48,7 +48,7 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 ---
 
-## [Tagoro](https://tagoro.io/): Private video calls for groups
+### [Tagoro](https://tagoro.io/): Private video calls for groups
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/tagoro.png">
@@ -56,7 +56,7 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 ---
 
-## [Timeview Native](https://www.timeview.io/): Platform for managing the human resources of a company for devices
+### [Timeview Native](https://www.timeview.io/): Platform for managing human resources for devices
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/timeview-native.png">
@@ -64,7 +64,7 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 ---
 
-## [Timeview](https://www.timeview.io/): Platform for managing the human resources of a company
+### [Timeview](https://www.timeview.io/): Platform for managing human resources
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/timeview.png">
@@ -72,7 +72,7 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 ---
 
-## [Fleetview](https://www.timeview.io/): Platform for managing fleets and assets of a company
+### [Fleetview](https://www.timeview.io/): Platform for managing fleets and assets
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/fleetview.png">
