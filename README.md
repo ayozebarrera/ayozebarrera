@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/banner.png" />
+    <img src="./assets/banner.png" />
 </div>
 
 <p align="center">
@@ -21,6 +21,14 @@ I ❤️  **Javascript** and I've been developing ⚛️  **React** apps from 4 
 
 Currently I'm using coding with **VSCode** and designing with **Figma**.
 
+<div style="position: absolute;right: 0;margin-top: -100px; opacity: 0.3">
+    <img src="./assets/stack.png" >
+</div>
+
+<br />
+<br />
+<br />
+<br />
 <br />
 
 # Last posts
