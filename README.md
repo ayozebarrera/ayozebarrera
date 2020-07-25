@@ -15,7 +15,7 @@
 
 I love to make new projects taking care all the aspects about the needs of the users. I always has been attracted to the design world and I enjoy investigating and learning new design techniques.
 
-I started to developing and designing apps more than 10 years ago. 
+I started to developing and designing apps more than 10 years ago... and I still have fun 🎉! 
 
 I ❤️  **Javascript** and I've been developing ⚛️  **React** apps from 4 years.
 
@@ -27,18 +27,18 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 <br />
 
-# Last posts
+# 📓 Last posts
 
-### You can read me on my devto [profile](https://dev.to/ayozebarrera) 
+### You can read me on my devto [profile](https://dev.to/ayozebarrera) 💻
 
-* [Como crear una guía de estilo con Figma](https://dev.to/capua/como-crear-una-guia-de-estilo-con-figma-269o)
-* [Mapeando tus movimientos con React y Leaflet](https://dev.to/capua/mapeando-tus-movimientos-con-react-y-leaflet-3bce)
-* [Como crear un paquete de Node](https://dev.to/capua/como-crear-un-paquete-de-node-3hp3)
-* [Mapeando con Javascript](https://dev.to/capua/mapeando-con-javascript-1k4g)  
+* [Como crear una guía de estilo con Figma ✨](https://dev.to/capua/como-crear-una-guia-de-estilo-con-figma-269o)
+* [Mapeando tus movimientos con React y Leaflet 🌎](https://dev.to/capua/mapeando-tus-movimientos-con-react-y-leaflet-3bce)
+* [Como crear un paquete de Node 📦](https://dev.to/capua/como-crear-un-paquete-de-node-3hp3)
+* [Mapeando con Javascript 🗺](https://dev.to/capua/mapeando-con-javascript-1k4g)  
 
 <br />
 
-# Last projects
+# 📁 Last projects
 
 ### I've developed and designed this projects with React and React Native
 
@@ -58,7 +58,7 @@ Currently I'm using coding with **VSCode** and designing with **Figma**.
 
 ---
 
-## Timeview Native (WIP): Platform for managing the human resources of a company for devices
+## [Timeview Native](https://www.timeview.io/): Platform for managing the human resources of a company for devices
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/timeview-native.png">
