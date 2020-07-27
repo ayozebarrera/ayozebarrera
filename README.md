@@ -19,7 +19,7 @@ I started to developing and designing apps more than 10 years ago... and I still
 
 I ❤️  **Javascript** and I've been developing ⚛️  **React** apps from 4 years.
 
-Currently I'm using coding with **VSCode** and designing with **Figma**.
+Currently I'm coding with **VSCode** and designing with **Figma**.
 
 <p align="center">
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/stack-centered.png" >
