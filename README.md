@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/banner.png" />
+    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/banner.svg" />
 </p>
 
 <p align="center">
