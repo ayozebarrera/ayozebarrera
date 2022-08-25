@@ -64,6 +64,14 @@ Currently coding with **VSCode** and designing with **Figma**.
 
 ---
 
+### [HiperDino Conecta](https://play.google.com/store/apps/details?id=com.dinosol): Management of human resources for HiperDino employees
+
+<p>
+    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/hd-conecta.png">
+</p>
+
+---
+
 ### [Timeview Native](https://www.timeview.io/): Platform for managing human resources for devices
 
 <p>
