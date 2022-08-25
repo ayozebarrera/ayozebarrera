@@ -40,6 +40,14 @@ Currently coding with **VSCode** and designing with **Figma**.
 
 ### I've developed and designed this projects with React and React Native
 
+### [Laborio](https://app.laborio.io): Manage assets and your clients issues easily
+
+<p>
+    <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/laborio.png">
+</p>
+
+---
+
 ### [Reex](reex.pro): Social network for female football
 
 <p>
