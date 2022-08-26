@@ -40,7 +40,7 @@ Currently coding with **VSCode** and designing with **Figma**.
 
 ### I've developed and designed this projects with React and React Native
 
-### [Laborio](https://app.laborio.io): Manage assets and your clients issues easily
+### [Laborio](https://app.laborio.io) - Manage assets and your clients issues easily
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/laborio.png">
@@ -48,7 +48,7 @@ Currently coding with **VSCode** and designing with **Figma**.
 
 ---
 
-### [Reex](reex.pro): Social network for female football
+### [Reex](reex.pro) -  Social network for female football
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/reex.png">
@@ -56,7 +56,7 @@ Currently coding with **VSCode** and designing with **Figma**.
 
 ---
 
-### [Tagoro](https://tagoro.io/): Private video calls for groups
+### [Tagoro](https://tagoro.io/) - Private video calls for groups
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/tagoro.png">
@@ -64,7 +64,7 @@ Currently coding with **VSCode** and designing with **Figma**.
 
 ---
 
-### [HiperDino Conecta](https://play.google.com/store/apps/details?id=com.dinosol): Management of human resources for HiperDino employees
+### [HiperDino Conecta](https://play.google.com/store/apps/details?id=com.dinosol) - Management of human resources for HiperDino employees
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/hd-conecta.png">
@@ -72,7 +72,7 @@ Currently coding with **VSCode** and designing with **Figma**.
 
 ---
 
-### [Timeview Native](https://www.timeview.io/): Platform for managing human resources for devices
+### [Timeview Native](https://www.timeview.io/) - Platform for managing human resources for devices
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/timeview-native.png">
@@ -80,7 +80,7 @@ Currently coding with **VSCode** and designing with **Figma**.
 
 ---
 
-### [Timeview](https://www.timeview.io/): Platform for managing human resources
+### [Timeview](https://www.timeview.io/) - Platform for managing human resources
 
 <p>
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/timeview.png">
