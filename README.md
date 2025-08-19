@@ -15,9 +15,9 @@
 
 I love to make new projects taking care all the aspects about the user's needs. I've always been attracted to the design world and I enjoy investigating and learning new design techniques.
 
-I started to developing and designing apps more than 10 years ago... and I still have fun 🎉! 
+I started developing and designing apps in 2009... and I still have fun 🎉! 
 
-I ❤️  **Javascript** and I've been developing ⚛️  **React** apps since 5 years ago.
+I ❤️  **Javascript** and I've been developing ⚛️  **React** since 2014.
 
 Currently coding with **VSCode** and designing with **Figma**.
 
