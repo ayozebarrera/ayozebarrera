@@ -17,7 +17,7 @@ I love to make new projects taking care all the aspects about the user's needs. 
 
 I started developing and designing apps in 2009... and I still have fun 🎉! 
 
-I ❤️  **Javascript** and I've been developing ⚛️  **React** in 2014.
+I ❤️  **Javascript** and I've been developing ⚛️  **React** since 2014.
 
 Currently coding with **VSCode** and designing with **Figma**.
 
