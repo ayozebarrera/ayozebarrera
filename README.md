@@ -13,13 +13,9 @@
 
 ## Heya! I'm a Frontend developer from Canary Islands, Spain 🇮🇨
 
-I love to make new projects taking care all the aspects about the user's needs. I've always been attracted to the design world and I enjoy investigating and learning new design techniques.
+I build products with the user's needs at the center, drawn equally to the engineering side and the design side of the work. I've been shipping apps since 2009 and writing React since 2014, and I still enjoy it as much as the first day.
 
-I started developing and designing apps in 2009... and I still have fun 🎉! 
-
-I ❤️  **Javascript** and I've been developing ⚛️  **React** since 2014.
-
-Currently coding with **VSCode** and designing with **Figma**.
+Currently coding with Claude, VS Code and designing in Figma. JavaScript is home.
 
 <p align="center">
     <img src="https://github.com/ayozebarrera/ayozebarrera/blob/master/assets/stack-centered.png" >
