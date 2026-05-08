@@ -25,6 +25,8 @@ Currently coding with Claude, VS Code and designing in Figma. JavaScript is home
 
 ### You can read me on my devto [profile](https://dev.to/ayozebarrera) 💻
 
+* [Spren: mi workspace de escritorio para programar con agentes](https://dev.to/ayozebarrera/spren-mi-workspace-de-escritorio-para-programar-con-agentes-2hm)
+* [De ticket a deploy sin tocar nada: cómo Claude Code orquesta mi flujo entero](https://dev.to/ayozebarrera/de-ticket-a-deploy-sin-tocar-nada-como-claude-code-orquesta-mi-flujo-entero-2kpm)
 * [Como crear una guía de estilo con Figma ✨](https://dev.to/capua/como-crear-una-guia-de-estilo-con-figma-269o)
 * [Mapeando tus movimientos con React y Leaflet 🌎](https://dev.to/capua/mapeando-tus-movimientos-con-react-y-leaflet-3bce)
 * [Como crear un paquete de Node 📦](https://dev.to/capua/como-crear-un-paquete-de-node-3hp3)
